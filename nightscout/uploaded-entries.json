@@ -96,6 +96,22 @@
     "glucose": 100
   }, 
   {
+    "trend_arrow": "NOT_COMPUTABLE", 
+    "display_time": "2016-07-17T15:39:32-07:00", 
+    "noise": 1, 
+    "system_time": "2016-07-17T21:35:14-07:00", 
+    "direction": "NOT COMPUTABLE", 
+    "sgv": 195, 
+    "dateString": "2016-07-17T15:39:32-07:00", 
+    "date": 1468795172000, 
+    "unfiltered": 188992, 
+    "filtered": 179552, 
+    "device": "openaps://cgm", 
+    "rssi": 185, 
+    "type": "sgv", 
+    "glucose": 195
+  }, 
+  {
     "trend_arrow": "45_UP", 
     "display_time": "2016-07-17T15:19:33-07:00", 
     "noise": 1, 
