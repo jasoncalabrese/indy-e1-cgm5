@@ -295,11 +295,11 @@
     "direction": "Flat", 
     "sgv": 108, 
     "dateString": "2016-07-25T04:04:04-07:00", 
-    "device": "openaps://cgm", 
-    "unfiltered": 134464, 
-    "rssi": 190, 
     "date": 1469444644000, 
+    "unfiltered": 134464, 
     "filtered": 137024, 
+    "device": "openaps://cgm", 
+    "rssi": 190, 
     "type": "sgv", 
     "glucose": 108
   }
