@@ -923,11 +923,11 @@
     "direction": "Flat", 
     "sgv": 131, 
     "dateString": "2016-07-26T01:24:00-07:00", 
-    "device": "openaps://cgm", 
-    "unfiltered": 154112, 
-    "rssi": 196, 
     "date": 1469521440000, 
+    "unfiltered": 154112, 
     "filtered": 152384, 
+    "device": "openaps://cgm", 
+    "rssi": 196, 
     "type": "sgv", 
     "glucose": 131
   }
