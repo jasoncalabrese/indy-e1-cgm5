@@ -1,18 +1,18 @@
 [
   {
     "trend_arrow": "45_UP", 
-    "display_time": "2016-07-25T23:14:00-07:00", 
+    "display_time": "2016-07-25T23:19:01-07:00", 
     "noise": 1, 
-    "system_time": "2016-07-26T06:04:07-07:00", 
+    "system_time": "2016-07-26T06:09:07-07:00", 
     "direction": "FortyFiveUp", 
-    "sgv": 136, 
-    "dateString": "2016-07-25T23:14:00-07:00", 
-    "date": 1469513640000, 
-    "unfiltered": 158912, 
-    "filtered": 147296, 
+    "sgv": 144, 
+    "dateString": "2016-07-25T23:19:01-07:00", 
+    "date": 1469513941000, 
+    "unfiltered": 165792, 
+    "filtered": 155072, 
     "device": "openaps://cgm", 
     "rssi": 180, 
     "type": "sgv", 
-    "glucose": 136
+    "glucose": 144
   }
 ]
