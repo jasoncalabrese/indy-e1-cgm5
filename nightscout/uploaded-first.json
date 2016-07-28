@@ -1,18 +1,18 @@
 [
   {
     "trend_arrow": "FLAT", 
-    "display_time": "2016-07-28T16:51:14-07:00", 
+    "display_time": "2016-07-28T16:56:14-07:00", 
     "noise": 1, 
-    "system_time": "2016-07-28T22:46:39-07:00", 
+    "system_time": "2016-07-28T22:51:39-07:00", 
     "direction": "Flat", 
-    "sgv": 168, 
-    "dateString": "2016-07-28T16:51:14-07:00", 
-    "date": 1469749874000, 
-    "unfiltered": 168160, 
-    "filtered": 170912, 
+    "sgv": 165, 
+    "dateString": "2016-07-28T16:56:14-07:00", 
+    "date": 1469750174000, 
+    "unfiltered": 166368, 
+    "filtered": 169056, 
     "device": "openaps://cgm", 
-    "rssi": 209, 
+    "rssi": 196, 
     "type": "sgv", 
-    "glucose": 168
+    "glucose": 165
   }
 ]
